@@ -4,6 +4,6 @@
 
 Computer Science Undergraduate Student • Junior Front-End Developer • Junior UI/UX Designer
 
-<img src="./assets/fastfetch.svg" width="100%">
+<img src="./Fastfetch.png" width="100%">
 
 </div>
