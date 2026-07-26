@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ghadir-ouadah/ghadir-ouadah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ghadir Ouadah
 
-Here are some ideas to get you started:
+<p>
+Computer Science Undergraduate Student • Junior Front-End Developer • Junior UI/UX Designer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+    src="./assets/fastfetch.svg"
+    alt="Fastfetch Profile"
+    width="100%"
+/>
+
+</div>
